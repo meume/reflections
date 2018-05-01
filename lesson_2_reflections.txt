@@ -7,3 +7,8 @@ What value do you think it offers?
 
 	Staging area is a buffer that keeps information related to upcoming operation
 	on repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	By adding files related to one logical change to staging area before each
+	commit.
