@@ -27,3 +27,7 @@ the diagram the way we do?
 
 	Resulting branch contains all the commits from merged branches, so two
 	branches become one.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Pros: less manual file comparisons. Cons: none.
