@@ -14,3 +14,8 @@ one instead of another?
 	copy, but also to acknowledge original author. Clone is a copy of a repository 
 	from github or local machine on a local machine. Branch is the version of 
 	repository's content stored inside that repository.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	To reduce number of possible conflicts by having most actual version of the files in 
+	the local repository.
